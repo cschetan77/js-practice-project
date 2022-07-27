@@ -1,1 +1,1 @@
-document.appendChild((()=>{const e=document.createElement("div");return e.innerText="Hey there how are you!",e})());
+(()=>{"use strict";sum=(e,t)=>e+t,document.appendChild((()=>{const e=document.createElement("div");return sum(2,3),e.innerText="Hey there how are you!",e})())})();

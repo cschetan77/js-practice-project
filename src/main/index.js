@@ -1,6 +1,6 @@
 const textComponent = () => {
-    let element = document.createElement('div');
-    element.innerText = "Hey there how are you!"
+    const element = document.createElement('div');
+    element.innerText = 'Hey there how are you!'
     return element;
 }
 
